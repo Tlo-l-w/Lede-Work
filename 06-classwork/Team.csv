@@ -1,0 +1,21 @@
+P,Team,GP,W,D,L,F,A,GD,Pts,Form
+1,Real Madrid,38,29,8,1,87,26,61,95,Won 3-0 against Cadiz  Won 4-0 against Granada  Won 5-0 against Alaves  Drew 4-4 with Villarreal  Drew 0-0 with Real Betis
+2,Barcelona,38,26,7,5,79,44,35,85,Lost 2-4 to Girona  Won 2-0 against Real Sociedad  Won 2-0 against Almeria  Won 3-0 against Rayo Vallecano  Won 2-1 against Sevilla
+3,Girona,38,25,6,7,85,46,39,81,Won 4-2 against Barcelona  Drew 2-2 with Alaves  Lost 0-1 to Villarreal  Won 3-1 against Valencia  Won 7-0 against Granada
+4,Atlético,38,24,4,10,70,43,27,76,Won 1-0 against Mallorca  Won 1-0 against Celta Vigo  Won 3-0 against Getafe  Lost 1-4 to Osasuna  Won 2-0 against Real Sociedad
+5,A Bilbao,38,19,11,8,61,37,24,68,Won 2-0 against Getafe  Drew 2-2 with Osasuna  Lost 1-2 to Celta Vigo  Won 2-0 against Sevilla  Won 1-0 against Rayo Vallecano
+6,Real Sociedad,38,16,12,10,51,39,12,60,Won 2-0 against Las Palmas  Lost 0-2 to Barcelona  Won 1-0 against Valencia  Won 2-0 against Real Betis  Lost 0-2 to Atlético
+7,Real Betis,38,14,15,9,48,45,3,57,Won 2-0 against Osasuna  Won 3-2 against Almeria  Drew 2-2 with Las Palmas  Lost 0-2 to Real Sociedad  Drew 0-0 with Real Madrid
+8,Villarreal,38,14,11,13,65,65,0,53,Lost 2-3 to Celta Vigo  Won 3-2 against Sevilla  Won 1-0 against Girona  Drew 4-4 with Real Madrid  Drew 1-1 with Osasuna
+9,Valencia,38,13,10,15,40,45,-5,49,Lost 0-1 to Alaves  Drew 0-0 with Rayo Vallecano  Lost 0-1 to Real Sociedad  Lost 1-3 to Girona  Drew 2-2 with Celta Vigo
+10,Alaves,38,12,10,16,36,46,-10,46,Won 1-0 against Valencia  Drew 2-2 with Girona  Lost 0-5 to Real Madrid  Won 1-0 against Getafe  Drew 1-1 with Las Palmas
+11,Osasuna,38,12,9,17,45,56,-11,45,Lost 0-2 to Real Betis  Drew 2-2 with A Bilbao  Drew 1-1 with Mallorca  Won 4-1 against Atlético  Drew 1-1 with Villarreal
+12,Getafe,38,10,13,15,42,54,-12,43,Lost 0-2 to A Bilbao  Lost 0-1 to Cadiz  Lost 0-3 to Atlético  Lost 0-1 to Alaves  Lost 1-2 to Mallorca
+13,Celta Vigo,38,10,11,17,46,57,-11,41,Won 3-2 against Villarreal  Lost 0-1 to Atlético  Won 2-1 against A Bilbao  Won 2-1 against Granada  Drew 2-2 with Valencia
+14,Sevilla,38,10,11,17,48,54,-6,41,Won 3-0 against Granada  Lost 2-3 to Villarreal  Lost 0-1 to Cadiz  Lost 0-2 to A Bilbao  Lost 1-2 to Barcelona
+15,Mallorca,38,8,16,14,33,44,-11,40,Lost 0-1 to Atlético  Won 1-0 against Las Palmas  Drew 1-1 with Osasuna  Drew 2-2 with Almeria  Won 2-1 against Getafe
+16,Las Palmas,38,10,10,18,33,47,-14,40,Lost 0-2 to Real Sociedad  Lost 0-1 to Mallorca  Drew 2-2 with Real Betis  Drew 0-0 with Cadiz  Drew 1-1 with Alaves
+17,Rayo Vallecano,38,8,14,16,29,48,-19,38,Lost 0-1 to Almeria  Drew 0-0 with Valencia  Won 2-1 against Granada  Lost 0-3 to Barcelona  Lost 0-1 to A Bilbao
+18,Cadiz,38,6,15,17,26,55,-29,33,Lost 0-3 to Real Madrid  Won 1-0 against Getafe  Won 1-0 against Sevilla  Drew 0-0 with Las Palmas  Lost 1-6 to Almeria
+19,Almeria,38,3,12,23,43,75,-32,21,Won 1-0 against Rayo Vallecano  Lost 2-3 to Real Betis  Lost 0-2 to Barcelona  Drew 2-2 with Mallorca  Won 6-1 against Cadiz
+20,Granada,38,4,9,25,38,79,-41,21,Lost 0-3 to Sevilla  Lost 0-4 to Real Madrid  Lost 1-2 to Rayo Vallecano  Lost 1-2 to Celta Vigo  Lost 0-7 to Girona
